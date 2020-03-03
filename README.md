@@ -3,7 +3,7 @@ Using a neural network and training data, the A.I. will refine and display optim
 
 [Launch Web App](https://easycss.github.io/AI-colourContraster/)
 
-![Colour Contraster Preview]()
+![Colour Contraster Preview](https://github.com/easycss/AI-colourContraster/blob/master/ai-contraster.jpg)
 ### Sigmoid activation requires normalising data : negative numbers to postitive 
 
 
